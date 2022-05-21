@@ -1,0 +1,51 @@
+h1 {
+    color: #32bd50;
+    background-color: bisque;
+    height: 90px;
+    width: 200px;
+}
+
+img {
+    height: 20%;
+    width: 20%;
+}
+
+#h4 {
+    color: blueviolet;
+}
+
+#korbo {
+    color: red;
+}
+
+.blog {
+    border: 5px solid gray;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+    width: 20%;
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+}
+
+input:focus {
+    font-weight: 900;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+li:nth-child(2n) {
+    background-color: blueviolet;
+}
+
+#bd {
+    font-size: 20px;
+    color: #32bd50;
+}
+
+.spn {
+    color: red;
+}
